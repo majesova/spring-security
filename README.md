@@ -1,7 +1,7 @@
 # spring-security
 
 
-Spring security implementation based on SpringBoot and PostGreSQL database.
+Spring security implementation based on SpringBoot and PostgreSQL database.
 
 This demonstration includes the next user interfaces: Users, Roles, Privileges & Menus.
 
